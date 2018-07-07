@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: I just want to be code-tastic!
 header-img: img/home-bg.png
 email: andranique.boone@gmail.com
 copyright_name: aboone08
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A little code, A little design...All things me.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  aboone08
